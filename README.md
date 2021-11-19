@@ -3,7 +3,7 @@
 ### 一、How to use
 
 ```
-npx babel src --out-dir lib
+npx babel input --out-dir output
 ```
 
 or
